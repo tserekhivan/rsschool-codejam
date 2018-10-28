@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha ./tests/sumOfOtherTest.js && mocha ./tests/makeTest.js"
+    "test": "mocha ./tests/sumOfOtherTest.js && mocha ./tests/makeTest.js && mocha ./tests/recursionTest.js"
   },
   "repository": {
     "type": "git",
